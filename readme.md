@@ -39,3 +39,5 @@ Clone the projet and run :
 ```bash
 streamlit run app.py
 ```
+## See the web app
+Go to [https://credit-scoring-customers-segmentation.streamlit.app/](https://credit-scoring-customers-segmentation.streamlit.app/)
